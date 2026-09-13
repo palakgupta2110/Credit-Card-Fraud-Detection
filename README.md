@@ -8,6 +8,12 @@ Credit card fraud detection is a classification problem where machine learning i
 
 This project provides an interactive Streamlit application for exploring the dataset, training machine learning models, evaluating their performance, and predicting whether a transaction is fraudulent.
 
+## 📷 Project Screenshot
+
+The application provides an interactive dashboard for analyzing transactions and detecting fraudulent activity.
+
+![Credit Card Fraud Detection Project](project-screenshot.png)
+
 ## 🛠️ Technologies Used
 
 - Python
